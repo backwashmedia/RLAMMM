@@ -1,0 +1,425 @@
+
+afghan hound
+african bush elephant
+african clawed frog
+african forest elephant
+
+african penguin
+african tree toad
+akita
+alaskan malamute
+albatross
+
+alligator
+
+angelfish
+ant
+anteater
+antelope
+arctic fox
+arctic hare
+arctic wolf
+armadillo
+asian elephant
+asian giant hornet
+black bear
+baboon
+badger
+bandicoot
+barn owl
+barracuda
+basset hound
+bat
+beagle
+bear
+bearded collie
+bearded dragon
+beaver
+beetle
+bengal tiger
+bernese mountain dog
+bird
+bison
+black Bear
+black rhinoceros
+black widow spider
+bloodhound
+blue whale
+bobcat
+bonobo
+blue-footed booby
+border collie
+borneo elephant
+boston terrier
+boxer
+brown bear
+buffalo
+bull mastiff
+bull shark
+bull terrier
+bulldog
+bullfrog
+bumble bee
+burmese
+burrowing frog
+butterfly
+butterfly fish
+camel
+capybara
+cat
+caterpillar
+catfish
+cavalier king charles spaniel
+centipede
+chameleon
+chamois
+cheetah
+chesapeake bay retriever
+chicken
+chihuahua
+chimpanzee
+chinchilla
+chinese crested dog
+chinook
+chinstrap penguin
+chipmunk
+chow chow
+clouded leopard
+clown fish
+cockroach
+collared peccary
+collie
+common buzzard
+common frog
+common loon
+common toad
+coral
+cougar
+cow
+coyote
+crab
+crane
+crested penguin
+crocodile
+cross river gorilla
+curly coated retriever
+cuscus
+cuttlefish
+dachshund
+dalmatian
+darwin's frog
+deer
+desert tortoise
+dingo
+doberman pinscher
+dodo
+dog
+dolphin
+donkey
+dragonfly
+direwolf
+duck
+spinner dolphin
+bottlenose dolphin
+dwarf crocodile
+eagle
+eastern gorilla
+edible frog
+electric eel
+elephant
+elephant seal
+emperor penguin
+Emu
+english cocker spaniel
+english shepherd
+english springer spaniel
+Falcon
+Fennec Fox
+Ferret
+Field Spaniel
+Fin Whale
+Finnish Spitz
+Fire-Bellied Toad
+Fish
+Fishing Cat
+Flamingo
+Flat Coat Retriever
+Flounder
+Fly
+Flying Squirrel
+fox
+fox terrier
+french bulldog
+frog
+fur seal
+galapagos penguin
+galapagos tortoise
+gar
+gecko
+gerbil
+german pinscher
+german shepherd
+giant clam
+gila monster
+giraffe
+glass lizard
+glow worm
+goat
+golden oriole
+golden retriever
+goose
+gopher
+gorilla
+grasshopper
+great dane
+great white shark
+grey mouse lemur
+grey reef shark
+grey seal
+greyhound
+grizzly bear
+grouse
+guinea fowl
+guinea pig
+guppy
+horse mackerel
+hammerhead shark
+hamster
+hare
+hedgehog
+hercules beetle
+hermit crab
+heron
+highland cattle
+himalayan
+hippopotamus
+honey bee
+horn shark
+horned frog
+horse
+horseshoe crab
+howler monkey
+human
+humboldt penguin
+hummingbird
+humpback whale
+hyena
+ibis
+iguana
+impala
+indian elephant
+insect
+irish setter
+irish wolfHound
+jack russell terrier
+jackal
+jaguar
+jellyfish
+kangaroo
+killer whale
+king crab
+king penguin
+Kkingfisher
+kiwi
+koala
+komodo dragon
+labradoodle
+labrador retriever
+ladybird
+leaf-tailed gecko
+lemming
+lemur
+leopard
+leopard cat
+leopard seal
+leopard tortoise
+liger
+lion
+lionfish
+lizard
+llama
+lobster
+long-eared owl
+lynx
+macaw
+magpie
+malayan tiger
+maltese
+manatee
+manta ray
+mastiff
+mayfly
+meerkat
+millipede
+minke whale
+mole
+mongoose
+mongrel
+monitor lizard
+monkey
+moose
+moray eel
+moth
+mountain gorilla
+mountain lion
+mouse
+mule
+neapolitan mastiff
+newfoundland
+newt
+nightingale
+norfolk terrier
+numbat
+nurse shark
+ocelot
+octopus
+old english sheepdog
+opossum
+orangutan
+ostrich
+otter
+oyster
+pademelon
+panther
+parrot
+patas monkey
+peacock
+pekingese
+pelican
+penguin
+persian
+pheasant
+pied tamarin
+pig
+pika
+pike
+pink fairy armadillo
+piranha
+platypus
+pointer
+poison dart rog
+polar bear
+pond skater
+poodle
+pool frog
+porcupine
+possum
+prawn
+proboscis monkey
+puffer fish
+puffin
+pug
+puma
+purple emperor
+pygmy hippopotamus
+pygmy marmoset
+quail
+quetzal
+quokka
+rabbit
+raccoon
+honu
+ragdoll
+rat
+rattlesnake
+red knee tarantula
+red panda
+red wolf
+reindeer
+rhinoceros
+river dolphin
+river turtle
+robin
+rockhopper penguin
+rottweiler
+sabre-toothed tiger
+saint bernard
+salamander
+sand lizard
+scorpion
+scorpion fish
+sea dragon
+sea lion
+sea otter
+sea slug
+sea squirt
+sea turtle
+sea urchin
+seahorse
+seal
+sheep
+shih tzu
+shrimp
+siamese fighting fish
+siberian husky
+siberian tiger
+silver dollar
+skunk
+sloth
+slow worm
+snail
+snake
+snapping turtle
+snowshoe
+snowy owl
+spadefoot toad
+sparrow
+spiny dogfish
+sponge
+squid
+squirrel
+squirrel monkey
+stag beetle
+starfish
+sea cow
+stick bug
+stingray
+monk seal
+green turtle
+humuhumunukunukuapua'a
+i'iwi
+sumatran tiger
+sun bear
+swan
+tang
+tasmanian devil
+owl
+termite
+thorny devil
+tibetan mastiff
+tiger
+tiger salamander
+tiger shark
+tortoise
+toucan
+tree frog
+turkey
+vampire bat
+spider monkey
+vulture
+wallaby
+walrus
+warthog
+wasp
+water buffalo
+water dragon
+vole
+weasel
+corgi
+gorilla
+whale shark
+whippet
+rhino
+tiger
+boar
+wildebeast
+wolf
+wolverine
+wombat
+woodpecker
+woolly mammoth
+yak
+penguin
+yorkshire terrier
+zebra
+zebra Shark
