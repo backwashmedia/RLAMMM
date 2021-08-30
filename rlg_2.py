@@ -155,6 +155,7 @@ def get_random_verse(can,y):
     print(choice)
 
 # retrieves song title using randomly generated objects.
+
 def get_song_title():
     x = get_objects()
     title1 = x['adj'] + " " + x['noun']
@@ -179,6 +180,7 @@ def get_song_title():
 # ---------------------------------------------------------------------------------------------------------------------
 
 # creates a dictionary of all of our sentence objects we will use to create individual verses.
+
 def get_objects():
     dict = {'adj': get_adjective(), 'adj2': get_adjective(), 'adj3': get_adjective(),
             'noun': get_noun(), 'noun2': get_noun(), 'noun3': get_noun(),
@@ -195,6 +197,7 @@ def get_objects():
     return dict
 
 # retrieves random pronoun from pron.txt file.
+
 def get_pronoun():
     List = open('pron.txt').readlines()
     pronoun = random.choice(List)
@@ -202,6 +205,7 @@ def get_pronoun():
     return pronoun
 
 # retrieves random noun from noun.txt file.
+
 def get_noun():
     List = open('nouns.txt').readlines()
     noun = random.choice(List)
@@ -209,6 +213,7 @@ def get_noun():
     return noun
 
 # retrieves random verb from verb.txt file.
+
 def get_verb():
     List = open('verb.txt').readlines()
     verb = random.choice(List)
@@ -216,6 +221,7 @@ def get_verb():
     return verb
 
 #retrieves random adverb from adverb.txt file.
+
 def get_adverb():
     List = open('adverb.txt').readlines()
     adverb = random.choice(List)
@@ -223,6 +229,7 @@ def get_adverb():
     return adverb
 
 # retrieves random adjective from adj.txt file.
+
 def get_adjective():
     List = open('adj.txt').readlines()
     adjective = random.choice(List)
@@ -230,6 +237,7 @@ def get_adjective():
     return adjective
 
 # retrieves random article from art.txt file.
+
 def get_art():
     List = open('art.txt').readlines()
     art = random.choice(List)
@@ -237,6 +245,7 @@ def get_art():
     return art
 
 # retrieves random plural, present tense verb from verb_plural.txt file.
+
 def get_s_verb():
     List = open('verb_plural.txt').readlines()
     s_verb = random.choice(List)
@@ -244,6 +253,7 @@ def get_s_verb():
     return s_verb
 
 # retrieves random past tense verb from verb_past.txt file.
+
 def get_past_verb():
     List = open('verb_past.txt').readlines()
     past_verb = random.choice(List)
@@ -251,6 +261,7 @@ def get_past_verb():
     return past_verb
 
 # retrieves random animal from animal.txt file.
+
 def get_animal():
     List = open('animal.txt').readlines()
     animal = random.choice(List)
@@ -258,6 +269,7 @@ def get_animal():
     return animal
 
 # retrieves a random country from countries.txt file.
+
 def get_country():
     List = open('countries.txt').readlines()
     country = random.choice(List)
@@ -265,6 +277,7 @@ def get_country():
     return country
 
 # retrieves a random first name from firstnames.txt file.
+
 def get_first_name():
     List = open('firstnames.txt').readlines()
     firstname = random.choice(List)
