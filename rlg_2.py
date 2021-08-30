@@ -199,7 +199,7 @@ def get_objects():
 # retrieves random pronoun from pron.txt file.
 
 def get_pronoun():
-    List = open('pron.txt').readlines()
+    List = open('txt/pron.txt').readlines()
     pronoun = random.choice(List)
     pronoun = pronoun.strip()
     return pronoun
@@ -207,7 +207,7 @@ def get_pronoun():
 # retrieves random noun from noun.txt file.
 
 def get_noun():
-    List = open('nouns.txt').readlines()
+    List = open('txt/nouns.txt').readlines()
     noun = random.choice(List)
     noun = noun.strip()
     return noun
@@ -215,7 +215,7 @@ def get_noun():
 # retrieves random verb from verb.txt file.
 
 def get_verb():
-    List = open('verb.txt').readlines()
+    List = open('txt/verb.txt').readlines()
     verb = random.choice(List)
     verb = verb.strip()
     return verb
@@ -223,7 +223,7 @@ def get_verb():
 #retrieves random adverb from adverb.txt file.
 
 def get_adverb():
-    List = open('adverb.txt').readlines()
+    List = open('txt/adverb.txt').readlines()
     adverb = random.choice(List)
     adverb = adverb.strip()
     return adverb
@@ -231,7 +231,7 @@ def get_adverb():
 # retrieves random adjective from adj.txt file.
 
 def get_adjective():
-    List = open('adj.txt').readlines()
+    List = open('txt/adj.txt').readlines()
     adjective = random.choice(List)
     adjective = adjective.strip()
     return adjective
@@ -239,7 +239,7 @@ def get_adjective():
 # retrieves random article from art.txt file.
 
 def get_art():
-    List = open('art.txt').readlines()
+    List = open('txt/art.txt').readlines()
     art = random.choice(List)
     art = art.strip()
     return art
@@ -247,7 +247,7 @@ def get_art():
 # retrieves random plural, present tense verb from verb_plural.txt file.
 
 def get_s_verb():
-    List = open('verb_plural.txt').readlines()
+    List = open('txt/verb_plural.txt').readlines()
     s_verb = random.choice(List)
     s_verb = s_verb.strip()
     return s_verb
@@ -255,7 +255,7 @@ def get_s_verb():
 # retrieves random past tense verb from verb_past.txt file.
 
 def get_past_verb():
-    List = open('verb_past.txt').readlines()
+    List = open('txt/verb_past.txt').readlines()
     past_verb = random.choice(List)
     past_verb = past_verb.strip()
     return past_verb
@@ -263,7 +263,7 @@ def get_past_verb():
 # retrieves random animal from animal.txt file.
 
 def get_animal():
-    List = open('animal.txt').readlines()
+    List = open('txt/animal.txt').readlines()
     animal = random.choice(List)
     animal = animal.strip()
     return animal
@@ -271,7 +271,7 @@ def get_animal():
 # retrieves a random country from countries.txt file.
 
 def get_country():
-    List = open('countries.txt').readlines()
+    List = open('txt/countries.txt').readlines()
     country = random.choice(List)
     country = country.strip()
     return country
@@ -279,7 +279,7 @@ def get_country():
 # retrieves a random first name from firstnames.txt file.
 
 def get_first_name():
-    List = open('firstnames.txt').readlines()
+    List = open('txt/firstnames.txt').readlines()
     firstname = random.choice(List)
     firstname = firstname.strip()
     return firstname
