@@ -4,15 +4,14 @@ RANDOM LYRIC ABSTRACT MAGIC MYSTERY MACHINE!!!!!!!!
 ----------------------------------------------------
 FILE: rlg.py
 ----------------------------------------------------
-MY final project is a random lyric generator. I have been a musician for 25 years, and have never once had confidence in
-writing lyrics. It never came natural, and I was always too embarrassed of even thinking of singing my own words aloud.
-So I thought, why not try and build a random lyric generator, which can yield many different song structures. As I learn
-python, I want to continue to develop and evolve this program to be more functional. At this time, the songs are VERY
-abstract. I did not focus on trying to rhyme words at this time, although it is a goal of this project in the long run
-to make that a feature. I would also like to add the ability of choosing a genre, or subject, to create lyrics for -
-for example: love, the blues, political, motivational, etc.) There are many different types of song structures. I tried
-to stray away from a full mad-libs, so the sentences would be totally random. However, in order to make the program work
-as is, I decided to add some constants in some of the sentences.
+My final project is a random lyric generator. I have been a musician for 25 years, and have never once had confidence in
+writing lyrics. It never came naturally, and I was always too embarrassed of even thinking of singing my own words aloud.
+So I thought, why not try and build a random lyric generator? As I learn python, I want to continue to develop and evolve 
+this program to be more functional. At this time, the songs are very abstract. I did not focus on trying to rhyme words at 
+this time, although it is a goal of this project in the long run to make that a feature. I would also like to add the ability 
+of choosing a genre, or subject, to create lyrics for. For example: love, the blues, political, motivational, etc.) There are 
+many different types of song structures. I tried to stray away from a full mad-libs, so the sentences would be totally random. 
+However, in order to make the program work as is, I decided to add some constants in some of the sentences.
 The user will be prompted the type of song structure they would like, and the program will generate random verses from
 many predefined sentence structures, and print the lyrics accordingly. I love to make improvisational music, and very
 weird strange lyrics appeal to me. Something like a completely random lyric machine would be useful, to me it would
@@ -22,8 +21,8 @@ it. I hope you enjoy!
 """
 
 import random
-from reportlab.pdfgen import canvas  # used reportlab module to create python's output onto a new pdf.
-from reportlab.lib.pagesizes import letter  # used reportlab module to set the pdf to a standard letter size, 8.5" x 11"
+from reportlab.pdfgen import canvas  # used reportlab module to draw python's output onto a new pdf.
+from reportlab.lib.pagesizes import letter  # used reportlab module to set the newly created pdf to a standard letter size, 8.5" x 11".
 
 
 def main():
@@ -37,6 +36,7 @@ def main():
 # --------------------------------------------------------------------------------------------------------------------
 ############################################ main functions #########################################################
 # --------------------------------------------------------------------------------------------------------------------
+
 def intro():
     print()
     print("-----------------------------------------------------------------------------------------------------------")
@@ -69,6 +69,7 @@ def get_choice():
 
 # gets input from user to establish the artist name, and randomly chooses a song title from a set of song titles.
 # outputs the generated credentials to our newly created pdf.
+
 def get_credentials(can):
     print()
     print("----------------------------------------------------------------------------------------")
@@ -93,6 +94,7 @@ def get_credentials(can):
 # passes in how many bars the user wants, and generates that number of bars. one bar of verses == a block of 4 verses.
 # each bar will get written to the pdf. if the program reaches the end of a page, a new page is created and the
 # process continues.
+
 def get_lyrics(num_bars, can):
     y = 700
     if num_bars <= 6:
@@ -115,6 +117,7 @@ def get_lyrics(num_bars, can):
             print()
 
 # retrieves one random verse. uses the previous y location to determine where to print(in this case, the next line down)
+
 def get_random_verse(can,y):
     objects = get_objects()
     sen1 = objects['adj3'] + " " + objects['noun'] + ", " + objects['adverb'] + " " + objects[
